@@ -1,5 +1,5 @@
 #python 3
-# RUN THE CODE using --> python3 percolate_test_py3.py
+# RUN THE CODE using --> python3 jsonifier_multithreaded.py
 import json
 import re
 import time
