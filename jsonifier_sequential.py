@@ -1,3 +1,5 @@
+#python 3
+# RUN THE CODE using --> python3 jsonifier_sequential.py
 import json;
 import re;
 import time
